@@ -1,0 +1,8 @@
+/.vs
+/.vscode
+/**.code-workspace
+/cpp/.vs
+/cpp/.vscode
+/cpp/build
+/cpp/buildArtifact
+
